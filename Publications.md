@@ -1,26 +1,14 @@
-```markdown
-# Publications
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-Here is a list of my recent research papers, datasets, and presentations.
+Alternatively, for H1 and H2, an underline-ish style:
 
-## 2026
+Alt-H1
+======
 
-* **An Analysis of Scalable Machine Learning Models**  
-  **Jane Doe**, John Smith, and Alan Turing.  
-  *IEEE Transactions on Pattern Analysis*, 2026.  
-  [[Publisher DOI](https://doi.org/xxxx)] [[Preprint PDF](/assets/papers/ml-models-2026.pdf)] [[Code & Data](https://github.com/yourusername/ml-project)]
-    
-  <details>
-  <summary style="color: gray; cursor: pointer; font-size: 0.9em;">Show Abstract & BibTeX</summary>
-    
-  <blockquote>
-  <strong>Abstract:</strong> This paper introduces a novel framework for scaling machine learning models...
-  </blockquote>
-
-  ```bibtex
-@article{doe2026analysis,
-  title={An Analysis of Scalable Machine Learning Models},
-  author={Doe, Jane and Smith, John and Turing, Alan},
-  journal={IEEE Transactions on Pattern Analysis},
-  year={2026}
-}
+Alt-H2
+------
