@@ -9,3 +9,6 @@
 7. **The Mathematics of Mario Party 10**, *Utah Academy of Science, Arts & Letters*, (2019) Volume 95, pp. 215‑234. https://www.utahacademy.org/wp-content/uploads/2019/03/JUASAL-2018-full-text-final.pdf
 8. **Idempotency**, Joint work with J. Argyle. *Kolob Canyon Review* (2019). Issue 27, pp. 57‑58
 9. **Open Educational Resources (OER) in the Discipline of Mathematics**, (2018) *CHOICE, Current Reviews for Academic Libraries*, 55:11. https://ala-choice.libguides.com/c.php?g=841661
+10. **Commutative S‑Rings of Maximal Dimension**, Joint work with K. Johnson and S. Humphries. (2015) *Communications in Algebra*, 43:12, 5298‑5327. https://www.tandfonline.com/doi/full/10.1080/00927872.2014.974258
+11. **Primitive Idempotents of Schur Rings**, *Algebr Represent Theor* (2014) 17:1615–1634 https://link.springer.com/article/10.1007/s10468-014-9466-y (preprint: https://arxiv.org/abs/1310.6024)
+12. **On the K‑Theory and Homotopy Theory of the Klein Bottle Group**, Joint work with J. Harlander. *Homology, Homotopy and Applications*, Vol. 13 (2011), No. 2, pp.63‑72. https://link.intlpress.com/JDetail/1805806734344077314
