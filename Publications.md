@@ -12,6 +12,9 @@
 10. **Idempotency**, Joint work with J. Argyle. *Kolob Canyon Review* (2019). Issue 27, pp. 57‑58
 11. **Open Educational Resources (OER) in the Discipline of Mathematics**, (2018) *CHOICE, Current Reviews for Academic Libraries*, 55:11. https://ala-choice.libguides.com/c.php?g=841661
 12. **Review of zbMATH**, Reviewed Sep. 20, 2018. *ccAdvisor*. DOI: 10.5260/CCA.199541.
-13. **Commutative S‑Rings of Maximal Dimension**, Joint work with K. Johnson and S. Humphries. (2015) *Communications in Algebra*, 43:12, 5298‑5327. https://www.tandfonline.com/doi/full/10.1080/00927872.2014.974258
-14. **Primitive Idempotents of Schur Rings**, *Algebr Represent Theor* (2014) 17:1615–1634 https://link.springer.com/article/10.1007/s10468-014-9466-y (preprint: https://arxiv.org/abs/1310.6024)
-15. **On the K‑Theory and Homotopy Theory of the Klein Bottle Group**, Joint work with J. Harlander. *Homology, Homotopy and Applications*, Vol. 13 (2011), No. 2, pp.63‑72. https://link.intlpress.com/JDetail/1805806734344077314
+13. **Adoption of OER Materials for a College Algebra Course and Its Results**, *Case Studies in Open Educational Resources*, n.1 (2017).
+14. **Commutative S‑Rings of Maximal Dimension**, Joint work with K. Johnson and S. Humphries. (2015) *Communications in Algebra*, 43:12, 5298‑5327. https://www.tandfonline.com/doi/full/10.1080/00927872.2014.974258
+15. **Primitive Idempotents of Schur Rings**, *Algebr Represent Theor* (2014) 17:1615–1634 https://link.springer.com/article/10.1007/s10468-014-9466-y (preprint: https://arxiv.org/abs/1310.6024)
+16. **On the K‑Theory and Homotopy Theory of the Klein Bottle Group**, Joint work with J. Harlander. *Homology, Homotopy and Applications*, Vol. 13 (2011), No. 2, pp.63‑72. https://link.intlpress.com/JDetail/1805806734344077314
+17. **Algebraic and Combinatorial Properties of Schur Rings over Cyclic Groups**, (2014). *Brigham Young University, All Theses and Dissertations*. Paper 5259. https://scholarsarchive.byu.edu/etd/5259/
+18. **Stably Free Modules Over the Klein Bottle**, (2010). *Boise State University Theses and Dissertations*. Paper 106. https://scholarworks.boisestate.edu/td/106/
