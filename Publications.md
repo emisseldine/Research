@@ -1,7 +1,7 @@
 # Peer-Reviewed Publications
 
 1. **Counting Schur Rings over Cyclic Groups of Semi‑Prime Order**, Joint work with J. Keller, M. Sullivan. (2026) *To Appear in the Galois Journal of Algebra.* (preprint: https://arxiv.org/abs/2005.06373)
-2. **On Schur Rings Over Semigroups**, Joint work with J. Marrow. (2026)  *Under Review* (preprint: https://arxiv.org/abs/2601.09940)
+2. **On Schur Rings Over Semigroups**, Joint work with J. Marrow. (2026)  *Under Review*. (preprint: https://arxiv.org/abs/2601.09940)
 3. **Exponent‑Critical Groups**, Joint work with S. Blackburn, W. Cocke, and G. Venkataraman. *Journal of Group Theory* (2025). vol. 28, no. 4, 2025, pp. 931‑950. [https://doi.org/10.1515/jgth‑2024‑0177](https://www.degruyterbrill.com/document/doi/10.1515/jgth-2024-0177/html)
 4. **On Schur Rings over Infinite Groups III**, Joint work with N. Bastian. *J Algebr Comb* (2023). [https://doi.org/10.1007/s10801‑023‑01273‑z](https://link.springer.com/article/10.1007/s10801-023-01273-z)
 5. **Enumeration Techniques on Cyclic Schur Rings**, *Trudy Inst. Mat. i Mekh. UrO RAN* 27, 276–‑289 (2021). [https://doi.org/10.21538/0134‑4889‑2021‑27‑4‑276‑289](http://journal.imm.uran.ru/2021-v.27-4-pp.276-289)
