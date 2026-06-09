@@ -36,3 +36,13 @@
 34. ***Counting Schur Rings over Cyclic Groups***. *Zassenhaus Group Theory Conference*. 24‐26 May 2013, Western Carolina University, Asheville, NC.
 35. ***Learning to Count Schur Rings over Cyclic Groups***. *Intermountain Section Mathematical Association of America Spring Meeting*. 29‐30 March 2013, Brigham Young University‐Idaho, Rexburg, ID.
 36. ***Learning to Count Schur Rings over Cyclic Groups***. *CPMS 27th Annual Student Research Conference*. 9 March 2013, Brigham Young University, Provo, UT.
+37. *Introduction Workshop on Noncommutative Algebraic Geometry and Representation Theory*. 28 January‐1 February 2013, MSRI, Berkeley, CA.
+38. *Moab Topology Conference*. 30 May‐1 June 2012, Utah State University, Moab, UT.
+39. *Interactions Between Commutative Algebra and Representation Theory*. 13‐15 April 2012, Syracuse University, Syracuse, NY.
+40. ***Semisimple Schur Rings***. *CPMS 26th Annual Student Research Conference*. 17 March 2012, Brigham Young University, Provo, UT.
+41. ***Stably Free Modules over the Klein Bottle***. *Intermountain Section Mathematical Association of America Spring Meeting*. 9 April 2011, Southern Utah University, Cedar City, UT.
+42. ***Stably Free Modules over the Klein Bottle***. *9th Annual Student Research Conference*. 3 April 2011, Michigan State University, East Lansing, MI.
+43. ***Stably Free Modules over the Klein Bottle***. *CPMS 25th Annual Student Research Conference*. 19 March 2011, Brigham Young University, Provo, UT.
+44. ***Stably Free Modules over the Klein Bottle***. *Master's Thesis Defense*. 25 March 2010, Boise State University, Boise, ID.
+45. ***Stafford’s Stably Free Module***. *International Seminar on Low-Dimensional Homotopy Theory*. 18 July 2009, Joseph, OR.
+46. ***The Exponent λ(R) and Its Consequence on RSA***. *Boise Graduate Cryptology Conference*. 14 May 2009, Boise State University, Boise, ID.
