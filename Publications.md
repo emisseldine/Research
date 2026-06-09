@@ -13,7 +13,7 @@
 10. ***Idempotency***, Joint work with J. Argyle. *Kolob Canyon Review* (2019). Issue 27, pp. 57‑58
 11. ***Open Educational Resources (OER) in the Discipline of Mathematics***, (2018) *CHOICE, Current Reviews for Academic Libraries*, 55:11. https://ala-choice.libguides.com/c.php?g=841661
 12. ***Review of zbMATH***, Reviewed Sep. 20, 2018. *ccAdvisor*. DOI: 10.5260/CCA.199541.
-13. ***Adoption of OER Materials for a College Algebra Course and Its Results***, *Case Studies in Open Educational Resources*, n.1 (2017).
+13. ***Adoption of OER Materials for a College Algebra Course and Its Results***, *Case Studies in Open Educational Resources*, n.1 (2017). (paper available at [ResearchGate](https://www.researchgate.net/publication/314104171_Adoption_of_OER_Materials_for_a_College_Algebra_Course_and_Its_Results))
 14. ***Commutative S‑Rings of Maximal Dimension***, Joint work with K. Johnson and S. Humphries. (2015) *Communications in Algebra*, 43:12, 5298‑5327. https://www.tandfonline.com/doi/full/10.1080/00927872.2014.974258 (postprint available at [ResearchGate](https://www.researchgate.net/publication/281273073_Commutative_Schur_Rings_of_Maximal_Dimension))
 15. ***Primitive Idempotents of Schur Rings***, *Algebr Represent Theor* (2014) 17:1615–1634 https://link.springer.com/article/10.1007/s10468-014-9466-y (postprint available at [arXiv](https://arxiv.org/abs/1310.6024))
 16. ***On the K‑Theory and Homotopy Theory of the Klein Bottle Group***, Joint work with J. Harlander. *Homology, Homotopy and Applications*, Vol. 13 (2011), No. 2, pp.63‑72. https://link.intlpress.com/JDetail/1805806734344077314
