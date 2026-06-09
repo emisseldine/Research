@@ -1,0 +1,66 @@
+IsDiffSet := function(k,v);
+    if (k gt v) or (k lt 0) then return false;
+    else
+        if (v eq 1) then return true;
+            else return ( (k^2-k) mod (v-1) eq 0 );
+        end if;
+    end if;
+end function;
+
+IsPartition := function(P, v);
+    if IsEmpty(P) then return false;
+        else return (&+P eq v); end if;
+end function;
+
+FindParts := function(v);
+    K := [];
+    for k := 1 to v do
+        if IsDiffSet(k,v) then K cat:= [k]; end if;
+    end for;
+    return K;
+end function;
+
+PrunePart := function(K, v);
+    if (not IsEmpty(K)) then
+        while K[#K] gt v do 
+            K := Prune(K); 
+            if IsEmpty(K) then break; end if;
+        end while;
+    end if;
+    return K;
+end function;
+
+DiffPart := function(K,v,P);
+    if IsPartition(P, v) then return P; 
+    else
+        if IsEmpty(K) then return P;
+            else 
+                P cat:=[K[#K]];
+                return $$(PrunePart(K, v-K[#K]), v-K[#K], P);
+        end if;
+    end if;
+end function;
+
+DifferencePartition := function(K,v);
+    DP := [];
+    if IsEmpty(K) then return DP;
+    else
+       for k in K do
+           P := [k];
+           DDP := $$(PrunePart(K, v-k),v-k); 
+           if IsEmpty(DDP) then if IsPartition(P, v) then DP cat:= [P]; end if;
+           else 
+               for ddp in DDP do
+                   PP := P cat ddp; 
+                   if IsPartition(PP, v) then DP cat:= [Reverse(Sort(PP))]; end if;
+               end for;
+           end if;
+           end for;
+        return Reverse(Sort(Setseq(Seqset(Sort(DP)))));
+    end if;
+end function;
+
+v:=82;
+K := FindParts(v);
+D := DifferencePartition(K,v);
+#D, D;
