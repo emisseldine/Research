@@ -61,6 +61,6 @@
    - *Utah Conference of Undergraduate Research*, 25 February 2022, Utah Tech University, St George, UT
   
 3. Joseph Keller, Max Sullivan, ***Counting Schur Rings over Semi-prime Order***:
-   -[*SUU Festival of Excellence*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/2020FoE.pdf), April 2020, Southern Utah University, Cedar City, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/0W6ZI_NXPcM?si=yWhxn7x_ogIbRdZu 
-   -[*Mathematical Association of America, Intermountaion Section*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/MAA2020.pdf), April 2020, Brigham Young University, Provo, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/2wlT78Prbo0
+   - [*SUU Festival of Excellence*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/2020FoE.pdf), April 2020, Southern Utah University, Cedar City, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/0W6ZI_NXPcM?si=yWhxn7x_ogIbRdZu 
+   - [*Mathematical Association of America, Intermountaion Section*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/MAA2020.pdf), April 2020, Brigham Young University, Provo, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/2wlT78Prbo0
    - [*WMG College of Science and Engineering Research Symposium*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/CoSE2019.pdf), 13 November 2019, Southern Utah University, Cedar City, UT
