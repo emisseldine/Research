@@ -46,3 +46,11 @@
 44. ***Stably Free Modules over the Klein Bottle***. *Master's Thesis Defense*. 25 March 2010, Boise State University, Boise, ID.
 45. ***Stafford’s Stably Free Module***. *International Seminar on Low-Dimensional Homotopy Theory*. 18 July 2009, Joseph, OR.
 46. ***The Exponent λ(R) and Its Consequence on RSA***. *Boise Graduate Cryptology Conference*. 14 May 2009, Boise State University, Boise, ID.
+
+# Student Presentations
+
+1. Thomas Reese, ***Schur Rings over Numerical Semigroups***:
+    - *SUU Abstract Algebra Group* (21 April 2026)
+    - *SUU Math Club* (24 March 2026)
+    - [*Utah Conference of Undergraduate Research*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2026-02-27.pdf) (27 February 2026)
+    - [*SUU Abstract Algebra Group*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2025-12-12.pdf) (21 April 2026)
