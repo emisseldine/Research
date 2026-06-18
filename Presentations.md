@@ -50,7 +50,12 @@
 # Student Presentations
 
 1. Thomas Reese, ***Schur Rings over Numerical Semigroups***:
-    - *SUU Abstract Algebra Group* (21 April 2026)
-    - *SUU Math Club* (24 March 2026)
-    - [*Utah Conference of Undergraduate Research*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2026-02-27.pdf) (27 February 2026)
-    - [*SUU Abstract Algebra Group*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2025-12-12.pdf) (21 April 2026)
+    - *SUU Abstract Algebra Group*, 21 April 2026, Southern Utah University, Cedar City, UT
+    - *SUU Math Club*, 24 March 2026, Southern Utah University, Cedar City, UT
+    - [*Utah Conference of Undergraduate Research*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2026-02-27.pdf), 27 February 2026, Weber State University, Ogden, UT
+    - [*SUU Abstract Algebra Group*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Reese/2025-12-12.pdf), 21 April 2026, Southern Utah University, Cedar City, UT
+  
+2. Joseph Marrow, ***Schur Rings over Semigroups***:
+   - [*SUU Festival of Excellence*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Marrow/FoE_Schur_Rings_over_Semigroups.pdf), 30 March 2022, Southern Utah University, Cedar City, UT
+   - [*Mathematical Association of America, Intermountaion Section*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/Marrow/MAA_Schur_Rings_over_Semigroups.pdf), 25-26 March 2022, Utah Valley University, Orem, UT
+   - *Utah Conference of Undergraduate Research*, 25 February 2022, Utah Tech University, St George, UT
