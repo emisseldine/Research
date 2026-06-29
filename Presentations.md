@@ -64,3 +64,16 @@
    - [*SUU Festival of Excellence*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/2020FoE.pdf), April 2020, Southern Utah University, Cedar City, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/0W6ZI_NXPcM?si=yWhxn7x_ogIbRdZu 
    - [*Mathematical Association of America, Intermountaion Section*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/MAA2020.pdf), April 2020, Brigham Young University, Provo, UT. Cancelled due to COVID-19 and presented remotely: https://youtu.be/2wlT78Prbo0
    - [*WMG College of Science and Engineering Research Symposium*](https://github.com/emisseldine/Research/blob/main/SchurRings/Slides/KellerSullivan/CoSE2019.pdf), 13 November 2019, Southern Utah University, Cedar City, UT
+
+4. Nic Bastian, ***Schur Rings over Infinite Groups***:
+   - *Mathematical Association of America, Intermountaion Section*, 12-13 April 2019, Southern Utah University, Cedar City, UT.
+   - *SUU Festival of Excellence*, 2 April 2019, Southern Utah University, Cedar City, UT.
+   - *Walter Maxwell Gibson College of Science and Engineering Research Symposium*, 12 November 2018, Southern Utah University, Cedar City, UT.
+  
+5. Nic Bastian, M. Jaden Brewer, ***Classifying Schur Rings over the Integers***:
+   - *Walter Maxwell Gibson College of Science and Engineering Research Symposium*. 13 November 2018, Southern Utah University, Cedar City, UT.
+   - *Utah Academy of Sciences, Arts, and Letter*, 7 April 2018, Southern Utah University, Cedar City, UT.
+   - *SUU Festival of Excellence*, 3 April 2019, Southern Utah University, Cedar City, UT.
+   - *Mathematical Association of America, Intermountaion Section*, 23-24 March 2018, Idaho State University, Pocatello, ID.
+   - *SUU Math Club*, 30 January 2018, Southern Utah University, Cedar City, UT.
+   - *Utah Conference of Undergraduate Research*, 8 February 2018, Southern Utah University, Cedar City, UT.
